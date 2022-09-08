@@ -1,0 +1,5 @@
+in package.json 
+
+"test" : // "test": "echo \"Error: no test specified\" && exit 1"
+
+for test script
